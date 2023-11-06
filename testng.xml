@@ -5,6 +5,7 @@
     <classes>
       <class name="com.sdet.TC_Login"/>
      <!--  <class name="com.sdet.AppTest"/>-->
+      
     </classes>
   </test> 
 </suite> 
